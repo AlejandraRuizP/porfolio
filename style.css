@@ -1,0 +1,46 @@
+header, .contacto{
+    width: 100vw;
+    height: 100vh;
+}
+.foto{
+    width: 30%;
+    margin-top: 10%;
+    border-radius: 50%;
+}
+header, .contacto{
+    background-color: #530eb3;
+    color: white;
+}
+#sk{
+    
+}
+::-webkit-scrollbar {
+    display: none;
+}
+#logo{
+    width: 100px;
+    height: 100px;
+}
+#bs{
+    width: 150px;
+    height: 100px;
+}
+#git{
+    width: 130px;
+    height: 100px;
+}
+#tre{
+    width: 130px;
+    height: 100px;
+    border-radius: 30px;
+}
+#cv{
+    text-decoration: none;
+    color: #530eb3;
+}
+
+ col{
+    width: 288px;
+    height: 431px;
+
+}
